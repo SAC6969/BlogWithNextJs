@@ -1,0 +1,14 @@
+.container{
+    max-width: 45vw;
+    margin: 15px auto;
+}
+
+.heading{
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.subheading{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

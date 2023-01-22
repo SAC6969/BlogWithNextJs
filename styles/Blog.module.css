@@ -1,0 +1,11 @@
+.blogItem{
+    cursor: pointer;
+}
+
+.content{
+    margin-bottom: 1.6rem;
+}
+
+.p{
+    max-width: 45vw;
+}

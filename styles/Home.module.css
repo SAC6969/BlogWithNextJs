@@ -1,9 +1,10 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   align-items: center;
-  padding: 6rem;
+  padding: 2rem;
+  /* margin: 1rem; */
   min-height: 100vh;
 }
 
@@ -276,3 +277,28 @@
     transform: rotate(0deg);
   }
 }
+
+.mainnav ul{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+
+.mainnav ul li{
+  margin:  10px 25px;
+  list-style: none;
+  font-weight: bold;
+}
+
+.blogs{
+  margin-top: 3rem;
+}
+
+.myimg{
+  border-radius: 10px;
+}
+
+
+
+
